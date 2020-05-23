@@ -1,0 +1,36 @@
+Objective:
+this program will allow user to calculate simple equations to get an answer
+We will:
+- create code that adds
+- create code that subtracts
+- create code that multiplies
+- create code that divides
+- create code that user can select intger from 0-9
+- create code that allows user to select second intger from 0-9
+- code that gives user the output from the 2 numbers they selected depending on whether they chose to
+    - add  - subtract  - multiply  - divide
+- loop the calculator so user can use as many times as they want
+Pseudocode:
+#make function that adds two numbers
+#make function that subtracts two numbers
+#make function that multiplies two numbers
+#make function that dividess two numbers
+    #print select operation
+    #print add
+    #print subtract
+    #print multiply
+    #print divide
+#take input from the user
+#check if choice is one of the four options
+    #if (choice 1)
+        #print
+    #elif (choice 2)
+        #print
+    #elif(choice 3)
+        #print
+    #elif(choice 4)
+        #print
+       
+#break
+#else (if user inputs anything else)
+    #print("invalid input")
